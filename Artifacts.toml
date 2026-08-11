@@ -1,8 +1,8 @@
 [[libssh]]
 arch = "x86_64"
-git-tree-sha1 = "968f602796b4f107748b207e9ddd27909beb4587"
+git-tree-sha1 = "f8949bbdc25f47efadebdf0d48f4f5fd12456c88"
 os = "windows"
 
     [[libssh.download]]
-    sha256 = "d54e2aade39db464e58235ef6c0a2f344a74b0caa3274fb0de4464d6e0cf1b6d"
+    sha256 = "647c708c050deaf246f927d70286a98306978d2aeec8c237433a32ab43861fd2"
     url = "https://github.com/JamesWrigley/libssh_jll.jl/releases/download/libssh-v0.12.2+1/libssh.v0.12.2.x86_64-w64-mingw32.tar.gz"
