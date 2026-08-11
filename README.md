@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `libssh_jll.jl` have been built from these sources:
 
-* files in directory, relative to originating `build_tarballs.jl`: `/home/wrigleyj/src/libssh-mirror`
+* files in directory, relative to originating `build_tarballs.jl`: `/home/james/git/libssh-mirror`
 
 ## Platforms
 
